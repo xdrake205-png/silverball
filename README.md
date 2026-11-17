@@ -1,5 +1,9 @@
 # SILVERBALL — Save the Last Arcade
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/xdrake205-png/silverball/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/xdrake205-png/silverball/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
 A one-table pinball game for the Make.fun "Make the best game" bounty
 (best-game-01). Vanilla JavaScript + HTML5 Canvas, fully offline, no libraries,
 no network requests, all sound synthesized in code.
