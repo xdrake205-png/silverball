@@ -147,3 +147,7 @@ Nothing has been submitted yet.
 ## License
 
 MIT (see LICENSE).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=fr5dbkp3&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
