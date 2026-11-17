@@ -1,0 +1,6 @@
+out/
+out2/
+.playwright-cli/
+tests/out/
+stage1-cover.png
+stage1-gameplay.png
